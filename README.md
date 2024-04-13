@@ -1,0 +1,1 @@
+Materials from React Foundations JSX Course from Nextjs.org to keep me comfortable and familiar with React before learning Nextjs
